@@ -16,7 +16,7 @@ Github : https://github.com/revan-ar/
 sleep(3);
 echo $banner;
 sleep(2);
-echo "\e[0;1m>>> Nomor Target\n(ex : 6285xxxxxxxxx) : ";
+echo "\e[0;1m>>> Nomor Target\n(ex : 9185xxxxxxxxx) : ";
 $target = trim(fgets(STDIN));
 sleep(2);
 echo ">>> jumlah\nMasukan jumlah : ";
